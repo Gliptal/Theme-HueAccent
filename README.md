@@ -33,20 +33,29 @@ Images
 ======
 
 - Blue
-![](https://github.com/Gliptal/Theme-HueAccent/images/Blue.png)
-![](https://github.com/Gliptal/Theme-HueAccent/images/BluePCK.png)
+
+![](https://github.com/Gliptal/Theme-HueAccent/tree/master/images/Blue.png)
+
+![](https://github.com/Gliptal/Theme-HueAccent/tree/master/images/BluePCK.png)
 
 - Green
-![](https://github.com/Gliptal/Theme-HueAccent/images/Green.png)
-![](https://github.com/Gliptal/Theme-HueAccent/images/GreenPCK.png)
+
+![](https://github.com/Gliptal/Theme-HueAccent/tree/master/images/Green.png)
+
+![](https://github.com/Gliptal/Theme-HueAccent/tree/master/images/GreenPCK.png)
 
 - Water
-![](https://github.com/Gliptal/Theme-HueAccent/images/Water.png)
-![](https://github.com/Gliptal/Theme-HueAccent/images/WaterPCK.png)
+
+![](https://github.com/Gliptal/Theme-HueAccent/tree/master/images/Water.png)
+
+![](https://github.com/Gliptal/Theme-HueAccent/tree/master/images/WaterPCK.png)
 
 - Yellow
-![](https://github.com/Gliptal/Theme-HueAccent/images/Yellow.png)
-![](https://github.com/Gliptal/Theme-HueAccent/images/YellowPCK.png)
+
+![](https://github.com/Gliptal/Theme-HueAccent/tree/master/images/Yellow.png)
+
+![](https://github.com/Gliptal/Theme-HueAccent/tree/master/images/YellowPCK.png)
+
 
 Editing
 ======
