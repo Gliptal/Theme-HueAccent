@@ -34,27 +34,27 @@ Images
 
 - Blue
 
-![](https://github.com/Gliptal/Theme-HueAccent/tree/master/images/Blue.png)
+![](https://raw.githubusercontent.com/Gliptal/Theme-HueAccent/master/images/Blue.png)
 
-![](https://github.com/Gliptal/Theme-HueAccent/tree/master/images/BluePCK.png)
+![](https://raw.githubusercontent.com/Gliptal/Theme-HueAccent/master/images/BluePCK.png)
 
 - Green
 
-![](https://github.com/Gliptal/Theme-HueAccent/tree/master/images/Green.png)
+![](https://raw.githubusercontent.com/Gliptal/Theme-HueAccent/master/images/Green.png)
 
-![](https://github.com/Gliptal/Theme-HueAccent/tree/master/images/GreenPCK.png)
+![](https://raw.githubusercontent.com/Gliptal/Theme-HueAccent/master/images/GreenPCK.png)
 
 - Water
 
-![](https://github.com/Gliptal/Theme-HueAccent/tree/master/images/Water.png)
+![](https://raw.githubusercontent.com/Gliptal/Theme-HueAccent/master/images/Water.png)
 
-![](https://github.com/Gliptal/Theme-HueAccent/tree/master/images/WaterPCK.png)
+![](https://raw.githubusercontent.com/Gliptal/Theme-HueAccent/master/images/WaterPCK.png)
 
 - Yellow
 
-![](https://github.com/Gliptal/Theme-HueAccent/tree/master/images/Yellow.png)
+![](https://raw.githubusercontent.com/Gliptal/Theme-HueAccent/master/images/Yellow.png)
 
-![](https://github.com/Gliptal/Theme-HueAccent/tree/master/images/YellowPCK.png)
+![](https://raw.githubusercontent.com/Gliptal/Theme-HueAccent/master/images/YellowPCK.png)
 
 
 Editing
