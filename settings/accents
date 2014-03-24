@@ -1,0 +1,23 @@
+Green
+  Main [100,170,70]
+  Darker [60,140,40]
+  Path [30,110,10]
+  Group Hover [130,200,115]
+
+Water
+  Main [100,170,120]
+  Darker [60,140,90]
+  Path [30,110,60]
+  Group Hover [130,200,165]
+
+Blue
+  Main [100,170,170]
+  Darker [60,140,140]
+  Path [30,110,110]
+  Group Hover [130,200,215]
+
+Yellow
+  Main [200,200,70]
+  Darker [160,170,40]
+  Path [130,140,10]
+  Group Hover [230,230,115]
