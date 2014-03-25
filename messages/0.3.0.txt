@@ -1,0 +1,9 @@
+[0.3.0]
+
+- Now available via Package Control
+- May be ST2 incompatible, need testing
+
+- Added skuroda in Credits
+- Added Credits in install message
+
+- Removed leading space in Package Control's description

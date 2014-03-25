@@ -17,6 +17,8 @@ Available colors right now are:
 
 Check the Bug and Requests section of this README if you'd like more colors added, or feel free to edit my theme and add them yourself (check the Editing section).
 
+This theme is sure to work on Sublime Text 3, but may not work on Sublime Text 2. If you are a ST2 user and find the theme is not working, do speak up.
+
 Installing
 ======
 
@@ -79,6 +81,6 @@ If you like this theme and decide to use it, please let me know using any of the
 Credits
 ======
 
-Credits go to Allan Hortle and his excellent Centurion Theme you can find here: [Centurion](https://github.com/allanhortle/Centurion). HueAccent is a modified version of his theme.
+Credits go to Allan Hortle and his excellent Centurion Theme you can find here: [Centurion](https://github.com/allanhortle/Centurion). HueAccent is a modified version of his theme. Thank you also to skuroda on the Sublime Text Forums, that helped me get my bearings with themes and packaging alike.
 
 
