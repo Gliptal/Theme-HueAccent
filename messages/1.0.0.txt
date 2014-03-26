@@ -1,0 +1,17 @@
+[1.0.0]
+
+Package Control:
+  - Now available via Package Control
+  - Removed leading spaces in Package Control's description
+
+Credits:
+  - Added skuroda
+  - Added FichteFoll
+
+Install Message:
+  - Added ST2 incompatibility disclaimer
+  - Added a "fast install" line
+  - Added short credits
+
+Known Bugs:
+  - Possibly ST2 incompatible, needs testing

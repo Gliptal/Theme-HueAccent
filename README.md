@@ -81,6 +81,6 @@ If you like this theme and decide to use it, please let me know using any of the
 Credits
 ======
 
-Credits go to Allan Hortle and his excellent Centurion Theme you can find here: [Centurion](https://github.com/allanhortle/Centurion). HueAccent is a modified version of his theme. Thank you also to skuroda on the Sublime Text Forums, that helped me get my bearings with themes and packaging alike.
+Credits go to Allan Hortle and his excellent Centurion Theme you can find here: [Centurion](https://github.com/allanhortle/Centurion). HueAccent is a modified version of his theme. Thank you also to skuroda on the Sublime Text Forums, that helped me get my bearings with themes and packaging alike; to [FichteFoll](https://github.com/FichteFoll) on github, that explained to me how to correctly set up my repo for versioning.
 
 

@@ -1,3 +1,11 @@
-Check the README found at https://github.com/Gliptal/Theme-HueAccent/tree/master for details.
+A minimal Sublime Text theme, based on a single color shared by all interface elements.
 
-Thanks to Allan Hortle and skuroda.
+If you know what you're doing, .sublime-theme names are
+  - HueAccentBlue.sublime-theme
+  - HueAccentGreen.sublime-theme
+  - HueAccentWater.sublime-theme
+  - HueAccentYello.sublime-theme
+
+Check the README found at https://github.com/Gliptal/Theme-HueAccent/tree/master for further details.
+
+Thanks to Allan Hortle, skuroda, and FichteFoll.
