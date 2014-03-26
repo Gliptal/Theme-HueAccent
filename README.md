@@ -17,14 +17,14 @@ Available colors right now are:
 
 Check the Bug and Requests section of this README if you'd like more colors added, or feel free to edit my theme and add them yourself (check the Editing section).
 
-This theme is sure to work on Sublime Text 3, but may not work on Sublime Text 2. If you are a ST2 user and find the theme is not working, do speak up.
+This theme is sure to work on Sublime Text 3, but may not work on Sublime Text 2. If you are a ST2 user and find the theme is not working, let me know.
 
 Installing
 ======
 
 1. If you haven't done already, install [Package Control](https://sublime.wbond.net/installation).
 2. Look for "Theme - HueAccent" in the available packages list and install it (CTRL-SHIFT-P > Package Control: Install Package).
-3. Edit you Preferences.sublime-settings file (Preferences > Settings - User) adding:
+3. Edit your Preferences.sublime-settings file (Preferences > Settings - User) adding:
   - `"theme": "HueAccentBlue.sublime-theme",` for Blue color.
   - `"theme": "HueAccentGreen.sublime-theme",` for Green color.
   - `"theme": "HueAccentWater.sublime-theme",` for Water color.
