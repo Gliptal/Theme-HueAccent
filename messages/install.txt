@@ -4,7 +4,7 @@ If you know what you're doing, .sublime-theme names are
   - HueAccentBlue.sublime-theme
   - HueAccentGreen.sublime-theme
   - HueAccentWater.sublime-theme
-  - HueAccentYello.sublime-theme
+  - HueAccentYellow.sublime-theme
 
 Check the README found at https://github.com/Gliptal/Theme-HueAccent/tree/master for further details.
 
